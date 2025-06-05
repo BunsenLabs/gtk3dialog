@@ -1,0 +1,17 @@
+gtk3dialog (0.1.2-1) carbon; urgency=low
+
+  * New upstream version.
+
+ -- Mick Amadio <01micko@gmx.com>  Sun, 11 May 2025 20:10:27 +1000
+
+gtk3dialog (0.1.1-1) carbon; urgency=low
+
+  * New upstream version.
+
+ -- Mick Amadio <01micko@gmx.com>  Sun, 22 Dec 2024 12:02:35 +1000
+
+gtk3dialog (0.1.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes no bugs.
+
+ -- Mick Amadio <01micko@gmx.com>  Sat, 30 Nov 2024 17:02:37 +1000
