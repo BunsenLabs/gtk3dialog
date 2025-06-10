@@ -1,3 +1,10 @@
+gtk3dialog (0.1.2-2) carbon; urgency=medium
+
+  * Update build dependencies.
+  * Add lintian-overrides.
+
+ -- Mick Amadio <01micko@gmx.com>  Thu, 05 Jun 2025 21:36:10 +1000
+
 gtk3dialog (0.1.2-1) carbon; urgency=low
 
   * New upstream version.
